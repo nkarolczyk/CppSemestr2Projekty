@@ -1,0 +1,7 @@
+# ninja log v5
+1	1869	7321139049462469	CMakeFiles/lista2_cpp.dir/main.cpp.obj	ac5dd19f57a38a1f
+2826	3288	7321139827629630	lista2_cpp.exe	997b47e61de4f838
+2	261	7321140974348028	build.ninja	f306afa239272d04
+0	2825	7321139823071497	CMakeFiles/lista2_cpp.dir/zadanie1.cpp.obj	9f2b987832b4e73d
+1	1427	7321142934082742	CMakeFiles/zadanie2_cpp.dir/zadanie2.cpp.obj	788cb6a009455082
+1431	1699	7321142936725170	zadanie2_cpp.exe	d10a73ede51078b9

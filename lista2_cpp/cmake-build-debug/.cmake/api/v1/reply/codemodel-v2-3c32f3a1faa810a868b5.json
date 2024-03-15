@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lista2_cpp",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "zadanie1_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadanie1_cpp-Debug-2681ec7a58622294dad7.json",
+					"name" : "zadanie1_cpp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "zadanie2_cpp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-zadanie2_cpp-Debug-7fb48e0f387ff70e7690.json",
+					"name" : "zadanie2_cpp",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/natik/Desktop/cpp_projekty/lista2_cpp/cmake-build-debug",
+		"source" : "C:/Users/natik/Desktop/cpp_projekty/lista2_cpp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

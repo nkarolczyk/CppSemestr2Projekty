@@ -1,0 +1,4 @@
+C:/Users/natik/Desktop/cpp_projekty/lista2_cpp/cmake-build-debug/CMakeFiles/zadanie1_cpp.dir
+C:/Users/natik/Desktop/cpp_projekty/lista2_cpp/cmake-build-debug/CMakeFiles/zadanie2_cpp.dir
+C:/Users/natik/Desktop/cpp_projekty/lista2_cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/natik/Desktop/cpp_projekty/lista2_cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
